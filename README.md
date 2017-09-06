@@ -9,3 +9,4 @@
 ## Bash
 ### Links
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/index.html)
+* [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
