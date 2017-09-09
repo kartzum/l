@@ -4,6 +4,7 @@
 ### Courses
 * [Введение в машинное обучение. Курс от ВШЭ и ШАД на coursera.org](https://github.com/tyz910/hse-shad-ml)
 * [Машинное обучение и анализ данных Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis)
+* [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
 ### Links
 * [R-portal](http://r-analytics.blogspot.ru/)
 * [ML links and books](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
@@ -19,7 +20,3 @@
 ## Algorithms
 ### Courses
 * [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
-
-## Scala
-### Courses
-* [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
