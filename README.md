@@ -6,6 +6,7 @@
 * [Машинное обучение и анализ данных Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis)
 * [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
 * [Теория вероятностей для начинающих](https://www.coursera.org/learn/probability-theory-basics)
+* [Линейная алгебра (Linear Algebra)](https://www.coursera.org/learn/algebra-lineynaya)
 ### Links
 * [R-portal](http://r-analytics.blogspot.ru/)
 * [ML links and books](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
