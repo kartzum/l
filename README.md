@@ -1,10 +1,11 @@
 # Library
 
-## ML/Data/R/Python/Scala
+## ML/Math/Data/R/Python/Scala
 ### Courses
 * [Введение в машинное обучение. Курс от ВШЭ и ШАД на coursera.org](https://github.com/tyz910/hse-shad-ml)
 * [Машинное обучение и анализ данных Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis)
 * [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
+* [Теория вероятностей для начинающих](https://www.coursera.org/learn/probability-theory-basics)
 ### Links
 * [R-portal](http://r-analytics.blogspot.ru/)
 * [ML links and books](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
