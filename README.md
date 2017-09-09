@@ -19,3 +19,7 @@
 ## Algorithms
 ### Courses
 * [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+
+## Scala
+### Courses
+* [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
