@@ -22,3 +22,7 @@
 ## Algorithms
 ### Courses
 * [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+
+## Oracle
+### Links
+* [10 Oracle SQLLDR Command Examples (Oracle SQL*Loader Tutorial)](http://www.thegeekstuff.com/2012/06/oracle-sqlldr/)
