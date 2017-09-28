@@ -18,6 +18,7 @@
 * [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 * [Основы BASH. Часть 1](https://habrahabr.ru/post/47163/)
 * [Основы BASH. Часть 2](https://habrahabr.ru/post/52871/)
+* [Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 
 ## Algorithms
 ### Courses
