@@ -12,6 +12,8 @@
 * [ML links and books](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
 * [ML courses (Apache Spark)](https://github.com/demidovakatya/courses)
 * [Overview of Cloudera and the Cloudera Documentation Set](https://www.cloudera.com/documentation/enterprise/5-5-x/topics/introduction.html)
+* [Big Data от A до Я. Часть 5.1: Hive — SQL-движок над MapReduce](https://habrahabr.ru/company/dca/blog/283212/)
+* [Big Data от А до Я. Часть 4: Hbase](https://habrahabr.ru/company/dca/blog/280700/)
 
 ## Bash
 ### Links
