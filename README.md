@@ -15,6 +15,12 @@
 * [Big Data от A до Я. Часть 5.1: Hive — SQL-движок над MapReduce](https://habrahabr.ru/company/dca/blog/283212/)
 * [Big Data от А до Я. Часть 4: Hbase](https://habrahabr.ru/company/dca/blog/280700/)
 
+## Python - multiprocessing/multithreading
+### Links
+* [multiprocessing — Process-based “threading” interface](https://docs.python.org/2/library/multiprocessing.html)
+* [threading — Higher-level threading interface](https://docs.python.org/2.7/library/threading.html)
+* [multiprocessing Basics](https://pymotw.com/2/multiprocessing/basics.html)
+
 ## Bash
 ### Links
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/index.html)
