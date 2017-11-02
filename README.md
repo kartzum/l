@@ -18,6 +18,7 @@
 ## Python
 ### Links
 * [Git. Автоматическая проверка сообщения коммита на стороне сервера с помощью Python](https://habrahabr.ru/post/192190/)
+* [typing — Support for type hints](https://docs.python.org/3.6/library/typing.html)
 
 ## Python - multiprocessing/multithreading
 ### Links
