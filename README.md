@@ -15,6 +15,10 @@
 * [Big Data от A до Я. Часть 5.1: Hive — SQL-движок над MapReduce](https://habrahabr.ru/company/dca/blog/283212/)
 * [Big Data от А до Я. Часть 4: Hbase](https://habrahabr.ru/company/dca/blog/280700/)
 
+## Python
+### Links
+* [Git. Автоматическая проверка сообщения коммита на стороне сервера с помощью Python](https://habrahabr.ru/post/192190/)
+
 ## Python - multiprocessing/multithreading
 ### Links
 * [multiprocessing — Process-based “threading” interface](https://docs.python.org/2/library/multiprocessing.html)
