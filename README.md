@@ -21,6 +21,7 @@
 * [threading — Higher-level threading interface](https://docs.python.org/2.7/library/threading.html)
 * [multiprocessing Basics](https://pymotw.com/2/multiprocessing/basics.html)
 * [deciding among subprocess, multiprocessing, and thread in Python?](https://stackoverflow.com/questions/2629680/deciding-among-subprocess-multiprocessing-and-thread-in-python)
+* [subprocess — Subprocess management](https://docs.python.org/2/library/subprocess.html)
 
 ## Bash
 ### Links
