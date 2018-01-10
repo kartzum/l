@@ -14,6 +14,7 @@
 * [Overview of Cloudera and the Cloudera Documentation Set](https://www.cloudera.com/documentation/enterprise/5-5-x/topics/introduction.html)
 * [Big Data от A до Я. Часть 5.1: Hive — SQL-движок над MapReduce](https://habrahabr.ru/company/dca/blog/283212/)
 * [Big Data от А до Я. Часть 4: Hbase](https://habrahabr.ru/company/dca/blog/280700/)
+* [The "Python Machine Learning (1st edition)" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
 
 ## Python
 ### Links
