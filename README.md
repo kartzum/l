@@ -15,6 +15,8 @@
 * [Big Data от A до Я. Часть 5.1: Hive — SQL-движок над MapReduce](https://habrahabr.ru/company/dca/blog/283212/)
 * [Big Data от А до Я. Часть 4: Hbase](https://habrahabr.ru/company/dca/blog/280700/)
 * [The "Python Machine Learning (1st edition)" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
+* [Курс "Машинное обучение" на ФКН ВШЭ](https://github.com/esokolov/ml-course-hse)
+* [Открытый курс машинного обучения. Тема 1. Первичный анализ данных с Pandas](https://habrahabr.ru/company/ods/blog/322626/)
 
 ## Python
 ### Links
