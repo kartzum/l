@@ -18,6 +18,7 @@
 * [Курс "Машинное обучение" на ФКН ВШЭ](https://github.com/esokolov/ml-course-hse)
 * [Открытый курс машинного обучения. Тема 1. Первичный анализ данных с Pandas](https://habrahabr.ru/company/ods/blog/322626/)
 * [Бенчмарк нового тензорного процессора Google для глубинного обучения](https://habrahabr.ru/post/350042/)
+* [Книги](https://github.com/liuchengxu/books)
 
 ## Python
 ### Links
