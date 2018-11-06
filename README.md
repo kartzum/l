@@ -67,4 +67,17 @@
 * https://habrahabr.ru/post/338952/
 * https://habrahabr.ru/post/283242/
 * https://habrahabr.ru/company/mailru/blog/339392/
+* https://d0.awsstatic.com/whitepapers/aws-amazon-emr-best-practices.pdf
+* [Hadoop Application Architectures by Gwen Shapira, Jonathan Seidman, Ted Malaska, Mark Grover](https://www.safaribooksonline.com/library/view/hadoop-application-architectures/9781491910313/ch01.html)
+* [Best Practice and Guidelines – Data Ingestion LOAD](https://developer.ibm.com/hadoop/2014/11/07/big-sql-data-ingestion-statements-load-hadoop-statement-best-practices/)
+* Hadoop Application Architectures Designing Real-World Big Data Applications
+* http://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html
+* https://docs.microsoft.com/ru-ru/powershell/dsc/dsccicd
+* https://cloud.google.com/solutions/continuous-delivery-jenkins-kubernetes-engine
+* https://martinfowler.com/articles/continuousIntegration.html
+* [https://habrahabr.ru/company/piter/blog/343270/](Непрерывная интеграция, непрерывная доставка, непрерывное развертывание: просто матрешка)
+* https://www.kdnuggets.com/2017/03/simple-xgboost-tutorial-iris-dataset.html
+* https://habrahabr.ru/company/ods/blog/344008/
+* https://my.datascientistworkbench.com
+* jupyter notebook --no-browser --debug --ip=0.0.0.0
 
