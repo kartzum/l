@@ -80,4 +80,19 @@
 * https://habrahabr.ru/company/ods/blog/344008/
 * https://my.datascientistworkbench.com
 * jupyter notebook --no-browser --debug --ip=0.0.0.0
-
+* - - -
+* https://www.globaltestmarket.com/help.php
+* https://www.cashcrate.com/
+* https://www.points2shop.com/
+* https://grabpoints.com/
+* http://www.apptrailers.com/
+* http://get.viggle.com/
+* https://www.checkpoints.com/
+* http://www.instantrewards.net/
+* https://www.cashpirate.mobi/
+* https://gifthulk.me/
+* https://www.instagc.com/
+* https://paid2youtube.com/
+* http://www.getcashforapps.com/
+* http://www.successbux.com/
+* - - -
