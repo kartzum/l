@@ -19,6 +19,20 @@
 * [Открытый курс машинного обучения. Тема 1. Первичный анализ данных с Pandas](https://habrahabr.ru/company/ods/blog/322626/)
 * [Бенчмарк нового тензорного процессора Google для глубинного обучения](https://habrahabr.ru/post/350042/)
 * [Книги](https://github.com/liuchengxu/books)
+* - - -
+* https://www.cakesolutions.net/teamblogs/graphx-pregel-api-an-example
+* https://www.cs.umd.edu/sites/default/files/scholarly_papers/AlbertKoy.pdf
+* http://lamastex.org/courses/ScalableDataScience/2016/S1/week8/15_GraphX/027_GraphFramesUserGuidePy.html
+* https://www.qubole.com/blog/processing-hierarchical-data-using-spark-graphx-pregel-api/
+* http://security-corp.org/programming/24031-analiz-druzheskih-svyazey-vk-s-pomoschyu-python-prodolzhenie.html
+* https://medium.com/@gokulkarthikk/github-social-network-analysis-28f72b2f5e3
+* https://graph-tool.skewed.de/static/doc/index.html
+* http://igraph.org/python/doc/tutorial/tutorial.html
+* https://networkx.github.io/documentation/stable/reference/algorithms/traversal.html
+* https://paulthecriticdotcom.wordpress.com/2016/03/10/using-networkx-to-make-friend-recs/
+* https://graph-tool.skewed.de/performance
+* https://www.packtpub.com/big-data-and-business-intelligence/mastering-social-media-mining-python
+* - - -
 
 ## Python
 ### Links
