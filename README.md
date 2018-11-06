@@ -110,3 +110,8 @@
 * http://www.getcashforapps.com/
 * http://www.successbux.com/
 * - - -
+* https://stepik.org/course/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8-76
+* https://medium.com/dataxutech/how-to-write-a-custom-spark-classifier-categorical-naive-bayes-60f27843b4ad
+* https://github.com/irvingc/dbscan-on-spark
+* virtualenv -p python3 name
+* pip3 install pandas==0.19.2
