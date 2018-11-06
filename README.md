@@ -60,5 +60,11 @@
 * [distribution-of-hash-values](http://michiel.buddingh.eu/distribution-of-hash-values)
 * [java-simplest-integer-hash](https://stackoverflow.com/questions/9624963/java-simplest-integer-hash)
 * [https://cognitiveclass.ai/](https://cognitiveclass.ai/)
-
+* https://github.com/mjaglan/bigdata-example-project
+* https://www.analyticsvidhya.com/blog/2017/01/scala/
+* https://www.ibm.com/developerworks/ru/library/bd-ooziehadoop/index.html
+* https://www.ibm.com/developerworks/ru/library/bd-hadoopoozie/index.html#shell
+* https://habrahabr.ru/post/338952/
+* https://habrahabr.ru/post/283242/
+* https://habrahabr.ru/company/mailru/blog/339392/
 
