@@ -53,3 +53,12 @@
 ## Graphs
 ### Links
 * [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis/blob/master/README.md)
+
+## Others
+### Links
+* [dbms_crypto.html](http://psoug.org/reference/dbms_crypto.html)
+* [distribution-of-hash-values](http://michiel.buddingh.eu/distribution-of-hash-values)
+* [java-simplest-integer-hash](https://stackoverflow.com/questions/9624963/java-simplest-integer-hash)
+* [https://cognitiveclass.ai/](https://cognitiveclass.ai/)
+
+
