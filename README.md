@@ -68,6 +68,17 @@
 ### Links
 * [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis/blob/master/README.md)
 
+## Projects
+* [Contains archetypes for Apache Spark, Hadoop...](https://github.com/kartzum/s_archetypes)
+* [Tasks for BigData, Apache Spark...](https://github.com/kartzum/d-space)
+* [Source of code and so on](https://github.com/kartzum/s)
+* [Scala Samples](https://gitlab.com/kartzum/sp)
+* [Apache Spark Scala Samples + sbt](https://gitlab.com/kartzum/b-blob)
+* [Data trening](https://gitlab.com/kartzum/v-m-o)
+* [Experiments with data](https://gitlab.com/kartzum/d-exp)
+* [Samples (Apache Spark and so on)](https://gitlab.com/kartzum/s-sm)
+* [Fragments of code (c/c++)](https://github.com/kartzum/fragments)
+
 ## Others
 ### Links
 * [dbms_crypto.html](http://psoug.org/reference/dbms_crypto.html)
