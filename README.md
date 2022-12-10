@@ -100,11 +100,11 @@
 * https://docs.microsoft.com/ru-ru/powershell/dsc/dsccicd
 * https://cloud.google.com/solutions/continuous-delivery-jenkins-kubernetes-engine
 * https://martinfowler.com/articles/continuousIntegration.html
-* [https://habrahabr.ru/company/piter/blog/343270/](Непрерывная интеграция, непрерывная доставка, непрерывное развертывание: просто матрешка)
+* [Непрерывная интеграция, непрерывная доставка, непрерывное развертывание: просто матрешка](https://habrahabr.ru/company/piter/blog/343270/)
 * https://www.kdnuggets.com/2017/03/simple-xgboost-tutorial-iris-dataset.html
 * https://habrahabr.ru/company/ods/blog/344008/
 * https://my.datascientistworkbench.com
-* jupyter notebook --no-browser --debug --ip=0.0.0.0
+* ```jupyter notebook --no-browser --debug --ip=0.0.0.0```
 * - - -
 * https://www.globaltestmarket.com/help.php
 * https://www.cashcrate.com/
